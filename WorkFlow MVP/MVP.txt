@@ -1,0 +1,53 @@
+FRONTEND
+
+meu-projeto/
+│
+├── public/
+│   └── index.html
+│
+├── src/
+│   ├── components/
+│   │   ├── Button/
+│   │   └── Header/
+│   │
+│   ├── pages/
+│   │   ├── Home/
+│   │   └── About/
+│   │
+│   ├── services/
+│   │   └── api.js
+│   │
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── package.json
+
+BACKEND
+
+backend/
+│
+├── src/main/java/com/meuprojeto/
+│   ├── controller/
+│   │   ├── AuthController.java
+│   │   └── UserController.java
+│   │
+│   ├── service/
+│   │   ├── AuthService.java
+│   │   └── UserService.java
+│   │
+│   ├── repository/
+│   │   └── UserRepository.java
+│   │
+│   ├── entity/
+│   │   └── User.java
+│   │
+│   └── MeuProjetoApplication.java
+│
+└── resources/
+    └── application.yml
+
+
+DOCKER
+
+docker-compose.yml
+Dockerfile (backend)
