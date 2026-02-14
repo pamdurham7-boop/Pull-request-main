@@ -1,0 +1,22 @@
+backend/
+│
+├── src/main/java/com/meuprojeto/
+│   ├── controller/
+│   │   ├── AuthController.java
+│   │   └── UserController.java
+│   │
+│   ├── service/
+│   │   ├── AuthService.java
+│   │   └── UserService.java
+│   │
+│   ├── repository/
+│   │   └── UserRepository.java
+│   │
+│   ├── entity/
+│   │   └── User.java
+│   │
+│   └── MeuProjetoApplication.java
+│
+└── resources/
+    └── application.yml
+
