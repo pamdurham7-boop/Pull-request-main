@@ -1,0 +1,22 @@
+
+meu-projeto/
+│
+├── public/
+│   └── index.html
+│
+├── src/
+│   ├── components/
+│   │   ├── Button/
+│   │   └── Header/
+│   │
+│   ├── pages/
+│   │   ├── Home/
+│   │   └── About/
+│   │
+│   ├── services/
+│   │   └── api.js
+│   │
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── package.json
